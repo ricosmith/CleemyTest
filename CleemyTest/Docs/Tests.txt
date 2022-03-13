@@ -1,0 +1,46 @@
+﻿TEST Ajout Dépense
+
+{
+  "id": 0,
+  "date": "2022-03-13",
+  "montant": 20,
+  "commentaire": "Test Commentaire",
+  "deviseFK": 2,
+  "natureFK": 1,
+  "utilisateurFK": 1
+}
+
+{
+  "id": 0,
+  "date": "2022-03-11",
+  "montant": 20,
+  "commentaire": "Test Commentaire",
+  "deviseFK": 2,
+  "natureFK": 1,
+  "utilisateurFK": 1
+}
+
+{
+  "id": 0,
+  "date": "2022-03-12",
+  "montant": 20,
+  "commentaire": "Test Commentaire",
+  "deviseFK": 2,
+  "natureFK": 1,
+  "utilisateurFK": 1
+}
+
+TEST Ajout Utilisateur 
+{
+  "id": 0,
+  "nom": "Doe",
+  "prenom": "John",
+  "deviseFK": 1
+}
+
+{
+  "id": 0,
+  "nom": "Montana",
+  "prenom": "Tony",
+  "deviseFK": 2
+}

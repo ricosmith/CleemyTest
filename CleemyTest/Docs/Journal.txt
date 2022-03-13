@@ -1,0 +1,42 @@
+﻿11/03/22 20h00 - 20h30 -> 0h30
+Lecture de l'énoncé
+Enregistrement sur GitHub
+Création du projet
+
+12/03/22 9h30-11h -> 1h30
+Mise en place de l'entity Framework
+Création de la classe / table Utilisateur
+
+12/03/22 11h30-12h30 -> 1h00
+Création des classes / tables Depenses Natures et Devises
+Differents tests sur les ID dans EF
+
+12/03/22 13h30-15h00 -> 1h30
+Initialisation des tables
+Travail sur les controleurs Natures Devises et utilisateurs
+install sql server express (instance simple en local avec authentification windows)
+Travail sur la chaine de connection
+
+12/03/22 18h30-19h30 -> 1h00
+Travail sur la création des tables avec EF
+
+12/03/22 22h00-22h30 -> 0h30
+Finalisation des tables
+Finalisation du contrôleur Utilisateur
+
+12/03/22 23h00-1h30 -> 2h30
+Travail sur le controller de Depenses
+Mise en place du Model DepensesModel
+
+13/03/22 8h-10h -> 2h
+Retravail du sorting et mise en place général
+Documentation du code
+
+13/03/22 13h-15h -> 2h
+Retravail des controllers
+Mise en place de XUnit
+
+13/03/22 16h-18h30 -> 2h30
+Travail sur les tests unitaires
+
+Temps total = 15h
